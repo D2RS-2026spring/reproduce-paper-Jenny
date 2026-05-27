@@ -27,7 +27,7 @@
 ├── R/                    # 核心函数（limeRate, convert, CCE 等）
 ├── data/                 # 示例数据集（kamp, coch）
 ├── vignettes/            # 详细说明文档（Lime_recommendation_formulas.Rmd）
-├── figure/               # 复现的图表（plot1.png ~ plot5.png）
+├── plot and figure/      # 复现的图表（plot1.png ~ plot5.png）
 ├── README.md             # 项目说明
 └── DESCRIPTION           # R 包元数据
 ```
