@@ -68,7 +68,7 @@ lr_meq <- limeRate(
   TAS = 15
 )
 
-# 转换为吨/公顷（容重 1.2 g/cm³，深度 20 cm）
+# 转换为吨/公顷 （容重 1.2 g/cm3, 深度 20cm)
 lr_tha <- convert(lr_meq, bd = 1.2, depth = 20) * 1000
 print(lr_tha)
 ```
