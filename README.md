@@ -1,8 +1,8 @@
 # Lime Recommendation Formulas for Tropical Acid Soils
 
 ## 小组成员
-- 组长：屈文龙
-- 组员：阿布都拉 韦佳妮 涂雨涵 侯坤均
+- 组长：屈文龙@Ahatm
+- 组员：阿布都拉·艾则孜@Abudula-Aizezi 韦佳妮@Jneey-add 涂雨涵@Tuyuhan 侯坤均@houkunjun
   
 ---
 
