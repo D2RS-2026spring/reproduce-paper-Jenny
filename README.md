@@ -10,7 +10,9 @@
 - **论文标题**：Estimating lime requirements for tropical soils: Model comparison and development
 - **相关软件/包**：Positron
 - **代码和数据链接**：本仓库包含复现石灰推荐公式的 R 代码及示例数据
-
+- **仓库链接**：https://github.com/D2RS-2026spring/reproduce-paper-Jenny.git
+- **论文链接**：https://doi.org/10.1016/j.geoderma.2023.116421
+- **文章数据代码仓库**：https://github.com/cropmodels/limer
 ---
 
 ## 复现目标与核心内容
